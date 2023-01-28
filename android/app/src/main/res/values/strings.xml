@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">newsapp</string>
+
+    <!-- Facebook -->
+    <string name="facebook_app_id">641799644412737</string>
+    <string name="facebook_client_token">f8029ed91885e153ae3353a3b270ca26</string>
+</resources>
